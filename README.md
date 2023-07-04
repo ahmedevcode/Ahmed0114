@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/document/D4E1FAQG_qKwd2wRE_A/feedshare-document-master-manifest/0/1666958138015?e=2147483647&v=beta&t=ihwf_CSBkOjXgcXnXezP_ezR9SY1M1nsv0In1hY7P2I
+<img align="right" alt="Coding" width="400" src=https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif>
 <h1 align="center">Hi 👋, I'm AhmedTharwat</h1>
 <h3 align="center">Mobile App developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAS/hacker-python.gif">
